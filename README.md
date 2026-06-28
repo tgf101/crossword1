@@ -326,12 +326,11 @@ The Git repository enabled collaboration by allowing group members to work on di
 
 # Project Risks
 
-| Risk                  | Likelihood | Impact | Mitigation                |
+| Risk                  | Likely | Impact | Mitigation                |
 | --------------------- | ---------- | ------ | ------------------------- |
 | JavaScript errors     | Medium     | High   | Frequent testing          |
-| Git merge conflicts   | Medium     | Medium | Use separate branches     |
 | Browser compatibility | Low        | Medium | Test in multiple browsers |
-| Scope expansion       | Medium     | High   | Keep requirements simple  |
+| Scope increase       | Medium     | High   | Keep requirements simple  |
 
 ---
 
