@@ -4,18 +4,6 @@
 
 ## SD1 Assignment 1 – Part A: Project Design, Development and Deployment
 
-### Module
-
-Software Development 1
-
----
-
-# Project Overview
-
-## Project Title
-
-**Interactive Crossword Puzzle Game**
-
 ## Project Description
 
 The aim of this project was to design, develop and deploy a browser-based crossword puzzle game using HTML5, CSS3 and JavaScript. The game allows players to complete a crossword puzzle by selecting clues and entering letters into a crossword grid. The application validates answers, provides hints, records the player's score, measures completion time and provides visual feedback throughout the game.
@@ -23,8 +11,6 @@ The aim of this project was to design, develop and deploy a browser-based crossw
 The application was designed following a prototyping approach. Initial concepts were discussed within the group before being refined through several iterations based on testing and usability improvements.
 
 The finished application is lightweight, responsive and runs entirely within a web browser without requiring additional software.
-
----
 
 # Team Members and Contributions
 
@@ -35,9 +21,6 @@ The finished application is lightweight, responsive and runs entirely within a w
 | Student 3   | JavaScript Developer   | Implemented crossword logic, scoring system, timer and hint system |
 | Student 4   | Tester & Documentation | Conducted testing, bug reporting and README preparation            |
 
-*(Replace with your actual group members and contributions.)*
-
----
 
 # Target Users
 
@@ -53,8 +36,6 @@ Users require:
 * Responsive interface
 * Quick loading times
 * Compatibility across modern web browsers
-
----
 
 # User Profiles
 
@@ -79,8 +60,6 @@ Users require:
 * Simple interface
 * Helpful hints
 
----
-
 ## User Profile 2
 
 **Name:** James
@@ -102,8 +81,6 @@ Users require:
 * Responsive controls
 * Keyboard support
 
----
-
 # User Requirements
 
 The following user requirements were identified during the requirements gathering stage.
@@ -120,8 +97,6 @@ The following user requirements were identified during the requirements gatherin
 | Reset puzzle                 | High     |
 | Reveal puzzle                | Low      |
 | Responsive design            | Medium   |
-
----
 
 # System Requirements
 
@@ -193,10 +168,6 @@ The interface consists of four main sections:
 2. Crossword grid.
 3. Clue panel containing Across and Down clues.
 4. Game controls including Check, Hint, Reset and Reveal buttons.
-
-*(Insert screenshots of your interface here.)*
-
----
 
 # Storyboard
 
